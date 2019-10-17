@@ -10,7 +10,6 @@ This is a technology demonstration showing a simple token usage scenario.
 
 Install MetaMask or other Web3-compatible browser setup, get a few Ether from a free faucet and load the demonstration website.
 
-**Demo website: https://fulldecent.github.io/spend-ERC20-create-ERC721/**
 
 ## How does it work
 
@@ -36,7 +35,6 @@ When you deploy the certificate and token contracts then you will be the owner w
 * Authorize the certificate contract as a spender for the tokens
 * Set the tokens as the spendable currency for the certificate
 
-**Watch deployment: https://www.youtube.com/watch?v=3SiMPZbwlR0**
 
 ## Contract development
 
